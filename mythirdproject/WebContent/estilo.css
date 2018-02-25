@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+table{ /*tabla que engloba a la imagen y la info del disco ampliado*/
+	width:90%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+	margin-right: 1%;
+	border-style: solid;
+	border-width:1px;
+}
+td{
+	width=50%;
+}
+input{
+width=40%;
+}
+form{
+	width=100%;
+	
+}
+body{
+	background-image=url("http://www.amazon.com/gp/redirect.html/ref=s9_acss_bw_cg_PA_3a1?location=https://images-na.ssl-images-amazon.com/images/G/01/112715/download/prime-air_04.jpg.zip&token=EA09532725A0054240848C5854844A985C92F6D5&source=standards&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-1&pf_rd_r=0DXBT9N8HNYPCSAX6N7C&pf_rd_t=101&pf_rd_p=2494830602&pf_rd_i=8037720011")
